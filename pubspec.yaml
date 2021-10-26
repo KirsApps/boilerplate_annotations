@@ -1,7 +1,7 @@
 name: boilerplate_annotations
 description: This package contains annotations for boilerplate_generators
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/KirsApps/boilerplate_annotations
 
 environment:
-  sdk: '>=2.14.4 <3.0.0'
+  sdk: '>=2.14.3 <3.0.0'
