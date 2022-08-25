@@ -1,3 +1,7 @@
+## 1.1.0
+
+- Requires Dart `sdk: '>=2.17.0'`
+
 ## 1.0.2
 
 - Documentation updated 
