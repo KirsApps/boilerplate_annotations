@@ -1,3 +1,7 @@
+## 2.0.1
+
+- Removed topics from pubspec
+
 ## 2.0.0
 
 - Requires Dart `sdk: '>=3.0.0'`
